@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GITHUB\\CMDTetris\\CMD_tetris\\CMD_tetris\\CMD_tetris.csproj": {}
+    "D:\\GITHUB\\CMDTetris\\CMDTETRIS\\CMDTETRIS.csproj": {}
   },
   "projects": {
-    "D:\\GITHUB\\CMDTetris\\CMD_tetris\\CMD_tetris\\CMD_tetris.csproj": {
+    "D:\\GITHUB\\CMDTetris\\CMDTETRIS\\CMDTETRIS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GITHUB\\CMDTetris\\CMD_tetris\\CMD_tetris\\CMD_tetris.csproj",
-        "projectName": "CMD_tetris",
-        "projectPath": "D:\\GITHUB\\CMDTetris\\CMD_tetris\\CMD_tetris\\CMD_tetris.csproj",
+        "projectUniqueName": "D:\\GITHUB\\CMDTetris\\CMDTETRIS\\CMDTETRIS.csproj",
+        "projectName": "CMDTETRIS",
+        "projectPath": "D:\\GITHUB\\CMDTetris\\CMDTETRIS\\CMDTETRIS.csproj",
         "packagesPath": "C:\\Users\\Danie\\.nuget\\packages\\",
-        "outputPath": "D:\\GITHUB\\CMDTetris\\CMD_tetris\\CMD_tetris\\obj\\",
+        "outputPath": "D:\\GITHUB\\CMDTetris\\CMDTETRIS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
